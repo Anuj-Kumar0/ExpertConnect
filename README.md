@@ -2,6 +2,8 @@
 
 A full-stack MERN application that allows users to browse experts, book sessions, and receive real-time slot updates using Socket.io.
 
+-Live Link: https://expert-connect-mu.vercel.app/ (Please wait for around 45 seconds to let the backend start)
+
 ## Features
 
 - Expert listing with:
@@ -113,3 +115,8 @@ Server-side pagination implemented using query parameters.
 - Payment integration
 - Email notifications
 - Calendar integration
+
+##Deployments
+
+-Backend deployed on Render - https://expertconnect-jsud.onrender.com/
+-Frontend deployed on Vercel - https://expert-connect-mu.vercel.app/
