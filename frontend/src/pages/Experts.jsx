@@ -110,7 +110,7 @@ function Experts() {
                 {/* States */}
 
                 {loading && (
-                    <p className="text-center text-lg">
+                    <p className="animate-pulse text-center text-lg font-semibold bg-gradient-to-r from-violet-600 via-fuchsia-500 to-pink-500 bg-clip-text text-transparent">
                         Loading experts...
                     </p>
                 )}
